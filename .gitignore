@@ -1,0 +1,19 @@
+﻿# Dependencies
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+migrations/
+
+# Build outputs
+dist/
+build/
+.vite/
+
+# Environment
+.env
+.env.local
+
+# IDE
+.vscode/
